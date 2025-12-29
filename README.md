@@ -63,8 +63,8 @@ Education platforms are often fragmented—students, teachers, and administrator
 1. Clone the repository:
 
    bash
-   git clone https://github.com/your-org/unified-education-interface.git
-   cd unified-education-interface
+   git clone https://github.com/pawan864/Unified-Education-Interface
+   cd Unified-Education-Interface
    
 
 2. Install dependencies:
