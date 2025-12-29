@@ -2,7 +2,7 @@
 
 A **Unified Education Interface (UEI)** is an open, extensible platform designed to bring together learning content, student data, assessments, analytics, and educational tools into a single, coherent experience. This repository provides the foundation for building, customizing, and deploying a unified interface across schools, universities, training programs, or self-directed learning environments.
 
----
+
 
 ## 🚀 Vision
 
@@ -13,7 +13,7 @@ Education platforms are often fragmented—students, teachers, and administrator
 * Enable data-informed teaching and learning
 * Support interoperability through open standards
 
----
+
 
 ## ✨ Key Features
 
@@ -24,7 +24,7 @@ Education platforms are often fragmented—students, teachers, and administrator
 * **Scalable & Extensible**: Suitable for small classrooms or large institutions
 * **Accessibility-First**: Built with inclusive design and accessibility standards in mind
 
----
+
 
 ## 🧩 Core Modules
 
@@ -35,7 +35,7 @@ Education platforms are often fragmented—students, teachers, and administrator
 * **User Management** – Roles, permissions, and profiles
 * **Integrations** – APIs and connectors for external systems
 
----
+
 
 ## 🛠️ Tech Stack (Example)
 
@@ -48,7 +48,7 @@ Education platforms are often fragmented—students, teachers, and administrator
 * **APIs**: REST / GraphQL
   
 
----
+
 
 ## 📦 Getting Started
 
@@ -103,7 +103,6 @@ Contributions are welcome! To contribute:
 
 Please follow the project’s coding standards and include tests where possible.
 
----
 
 ## 📄 Documentation
 
@@ -114,7 +113,6 @@ Please follow the project’s coding standards and include tests where possible.
 
 Documentation can be found in the `/docs` directory or the project wiki.
 
----
 
 ## 🔐 Security & Privacy
 
@@ -134,7 +132,6 @@ Please report vulnerabilities responsibly.
 * [ ] Mobile-first enhancements
 * [ ] Offline learning support
 
----
 
 ## 📬 Contact
 
